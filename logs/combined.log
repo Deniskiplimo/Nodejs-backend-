@@ -1,0 +1,18 @@
+2024-06-30T13:12:25.037Z [info]: Server is running on port 3000
+2024-06-30T13:12:25.041Z [error]: Error connecting to MongoDB: MongooseError: The `uri` parameter to `openUri()` must be a string, got "undefined". Make sure the first parameter to `mongoose.connect()` or `mongoose.createConnection()` is a string.
+2024-06-30T13:18:33.534Z [info]: Server is running on port 3000
+2024-06-30T13:18:33.538Z [error]: Error connecting to MongoDB: MongooseError: The `uri` parameter to `openUri()` must be a string, got "undefined". Make sure the first parameter to `mongoose.connect()` or `mongoose.createConnection()` is a string.
+2024-06-30T13:20:38.141Z [info]: Server is running on port 3000
+2024-06-30T13:20:38.145Z [error]: Error connecting to MongoDB: MongooseError: The `uri` parameter to `openUri()` must be a string, got "undefined". Make sure the first parameter to `mongoose.connect()` or `mongoose.createConnection()` is a string.
+2024-06-30T13:24:34.436Z [info]: Server is running on port 3000
+2024-06-30T13:24:34.440Z [error]: Error connecting to MongoDB: MongooseError: The `uri` parameter to `openUri()` must be a string, got "undefined". Make sure the first parameter to `mongoose.connect()` or `mongoose.createConnection()` is a string.
+2024-06-30T13:26:45.668Z [info]: Server is running on port 3000
+2024-06-30T13:26:45.671Z [error]: Error connecting to MongoDB: MongooseError: The `uri` parameter to `openUri()` must be a string, got "undefined". Make sure the first parameter to `mongoose.connect()` or `mongoose.createConnection()` is a string.
+2024-06-30T13:27:25.559Z [info]: Server is running on port 3000
+2024-06-30T13:27:25.562Z [error]: Error connecting to MongoDB: MongooseError: The `uri` parameter to `openUri()` must be a string, got "undefined". Make sure the first parameter to `mongoose.connect()` or `mongoose.createConnection()` is a string.
+2024-06-30T13:28:02.874Z [info]: Server is running on port 3000
+2024-06-30T13:28:02.877Z [error]: Error connecting to MongoDB: MongooseError: The `uri` parameter to `openUri()` must be a string, got "undefined". Make sure the first parameter to `mongoose.connect()` or `mongoose.createConnection()` is a string.
+2024-06-30T13:31:27.348Z [info]: Server is running on port 3000
+2024-06-30T13:31:27.351Z [error]: Error connecting to MongoDB: MongooseError: The `uri` parameter to `openUri()` must be a string, got "undefined". Make sure the first parameter to `mongoose.connect()` or `mongoose.createConnection()` is a string.
+2024-06-30T13:36:16.617Z [info]: Server is running on port 3000
+2024-06-30T13:36:16.620Z [error]: Error connecting to MongoDB: MongooseError: The `uri` parameter to `openUri()` must be a string, got "undefined". Make sure the first parameter to `mongoose.connect()` or `mongoose.createConnection()` is a string.
